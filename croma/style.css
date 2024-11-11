@@ -1,0 +1,259 @@
+.banner{
+    width: 100%;
+    position: relative;
+}
+
+.logo{
+    position: absolute;
+    top: 3%;
+    left: 6.5%;
+    width: 10%;
+
+}
+
+.bar{
+    width: 25%;
+    margin: auto;
+    position: absolute;
+    top: 3%;
+    left: 25%;
+}
+
+.srch{
+    width: 600px;
+    height: 60px;
+    position: relative;
+   
+    left: 10%;
+   
+}
+
+.loc{
+    position: absolute;
+    top: 26%;
+    left: 195%;
+    
+}
+
+.pen{
+    position: absolute;
+    top: 26%;
+    left: 110%;
+}
+
+.user{
+    position: absolute;
+    bottom: 9%;
+    left: 160%;
+}
+
+.cart{
+    position: absolute;
+    bottom: 8%;
+    left: 237%;
+}
+
+.sicon{
+    position: absolute;
+    left: 93%;
+    top: 35%;
+}
+
+.c2{
+    display: flex;
+    width: 90%;
+    margin: auto;
+    margin-top: 3%;
+    
+
+}
+.cimg{
+    width: 80%;
+    height: 95%;
+}
+
+.flx{
+    
+    display: grid;
+    grid-template-columns: auto auto;
+    margin: auto;
+    width:85%;
+    margin-top: 3%;
+    gap: 20px;
+
+    
+}
+
+.flximg{
+    height: 180px;
+    width: 830px;
+    border-radius: 10px;
+    
+    
+}
+
+.ex{
+    margin-top: 8vh;
+    margin-left: 7vw;
+    color: white;
+    
+}
+
+.g2{
+    display: grid;
+    grid-template-columns: auto auto;
+    margin: auto;
+    width:85%;
+    margin-top: 3%;
+    gap: 20px;
+}
+
+.g3{
+    display: grid;
+    grid-template-columns: auto auto;
+    margin: auto;
+    width:85%;
+    margin-top: 3%;
+    gap: 20px;
+}
+
+.g3img{
+    height: 430px;
+    width: 830px;
+    border-radius: 10px;
+}
+
+.gimg{
+    height: 350px;
+    width: 1680px;
+    border-radius: 10px;
+    margin: auto;
+}
+
+.g{
+    width: 85%;
+    margin: auto;
+    margin-top: 2%;
+}
+
+.g4{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    margin: auto;
+    width:85%;
+    margin-top: 2%;
+    gap: 10px;
+}
+
+.g4img{
+    height: 500px;
+    width: 400px;
+    border-radius: 10px;
+    
+}
+
+.l{
+    width: 85%;
+    margin: auto;
+}
+
+.lhed{
+    margin-top: 2%;
+    color: white;
+    margin-left: 7vw;
+}
+
+.ggimg{
+    height: 200px;
+    width: 1680px;
+    border-radius: 10px;
+    margin: auto;
+}
+
+.flex2{
+    display: flex;
+    flex-wrap: wrap;
+    width: 85%;
+    margin: auto;
+    gap: 5%;
+}
+
+.aaa{
+    width: 150px;
+    height: 150px;
+    margin-bottom: 2vh;
+}
+
+.g21{
+    display: grid;
+    grid-template-columns: auto auto;
+    margin: auto;
+    width:85%;
+    margin-top: 1%;
+    gap: 20px;
+}
+
+
+.iimg{
+    height: 350px;
+    width: 1680px;
+    border-radius: 10px;
+    margin: auto;
+}
+
+.i{
+    width: 85%;
+    margin: auto;
+    margin-top: 2%;
+}
+
+.cl{
+    display: flex;
+    width: 85%;
+    margin: auto;
+    margin-top: 3%;
+    gap: 1%;
+
+}
+
+.climg{
+    width: 98%;
+    height: 95%;
+    border-radius: 5%;
+    
+}
+
+.footer{
+    background-color: rgb(39, 37, 37);
+    color: white;
+   
+    
+}
+
+.foot{
+    width: 85%;
+    margin: auto; 
+    margin-top: 3%;
+}
+
+.foot1{
+    margin-top: 12vh;
+}
+
+.search{
+    height: 7vh;
+    width: 20vw;
+    border-radius: 10px;
+}
+
+.ficn{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1%;
+    margin-top: 1%;
+}
+
+.gh{
+    border-left: solid 2px;
+    color: aqua;
+}
